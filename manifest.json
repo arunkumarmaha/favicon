@@ -1,5 +1,5 @@
 {
-  "name": "Web Application Manifest Sample",
+  "name": "2my4edge Programming Blog",
   "icons": [
     {
       "src": "launcher-icon-0-75x.png",
@@ -38,9 +38,6 @@
       "density": 4.0
     }
   ],
-  "theme_color": "#9E9E9E",
-  "background_color": "#9E9E9E",
-  "start_url": "index.html",
-  "display": "standalone",
-  "orientation": "landscape"
+  "background_color": "#6fa8dc",
+  "start_url": "index.html"
 }
